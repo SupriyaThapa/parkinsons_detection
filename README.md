@@ -1,3 +1,5 @@
+**PARKINSON'S DISEASE - CSV DATASET TRAINING AND EVALUATION**
+
 This repository contains analysis on detecting Parkinson's disease using structured voice-related data from UCI Machine Learning Repository. It focuses on building, comparing and evaluating machine learning models for accurate and efficient screening.
 
 **OVERVIEW:**
