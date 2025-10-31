@@ -1,9 +1,11 @@
 This repository contains analysis on detecting Parkinson's disease using structured voice-related data from UCI Machine Learning Repository. It focuses on building, comparing and evaluating machine learning models for accurate and efficient screening.
 
 **OVERVIEW:**
+
 The CSV dataset included 195 samples and 24 voice related features such as jitter, shimmer, HNR, MFCCs and Delta coefficients. The goal was to determine how effectively these features can distinguish between healthy individuals and Parkinson’s patients, and to identify the most deployable model for real-world use.
 
 **WorkFlow:**
+
 Data Preparation:
 Data was already clean and split into 60% training, 20% validation, and 20% test sets using grouped patient IDs to prevent data leakage.
 
